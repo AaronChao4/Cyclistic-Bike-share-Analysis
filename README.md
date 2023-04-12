@@ -8,14 +8,14 @@ The dataset we are given to work with includes the following columns:
 
 | Column  | Column Description |
 | ------------- | ------------- |
-| ride_id  | Content Cell  |
-| rideable_type  | Content Cell  |
+| ride_id  | A unique ID number given for a ride |
+| rideable_type  | Type of bicycle used |
 | started_at | Date and time the ride started |
 | ended_at | Date and time the ride ended |
 | start_station_name | The station the ride started at |
 | end_station_name | The station the ride ended at |
-| start_lat | Starting latitude |
-| start_lng | Starting longitude |
-| end_lat | Ending latitude |
-| end_lng | Ending longitude |
-| member_casual | Membership type |
+| start_lat | Starting latitude of the start station |
+| start_lng | Starting longitude of the start station |
+| end_lat | Ending latitude of the end station |
+| end_lng | Ending longitude of the end station |
+| member_casual | Membership type of the rider |
