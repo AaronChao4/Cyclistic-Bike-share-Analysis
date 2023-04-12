@@ -4,7 +4,18 @@ This is a capstone project for the Google Data Analytics Professional Certificat
 ## The Scenario
 We are a junior data analyst working for a bike-sharing company called Cyclistic.
 
-| First Header  | Second Header |
+The dataset we are given to work with includes the following columns:
+
+| Column  | Column Description |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ride_id  | Content Cell  |
+| rideable_type  | Content Cell  |
+| started_at | Date and time the ride started |
+| ended_at | Date and time the ride ended |
+| start_station_name | The station the ride started at |
+| end_station_name | The station the ride ended at |
+| start_lat | Starting latitude |
+| start_lng | Starting longitude |
+| end_lat | Ending latitude |
+| end_lng | Ending longitude |
+| member_casual | Membership type |
